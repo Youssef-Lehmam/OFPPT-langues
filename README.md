@@ -1,11 +1,12 @@
-# Bot to reach the hours required on the OFPPT Langue platform (ENGLISH)
+# Bot to reach the hours required on the OFPPT Langue platform (SUPPORT JUST ENGLISH FOR NOW)
 
-"FOR EDUCATIONAL PURPOSES ONLY USING M106:Automatiser les tâches d’administration XD"                                                  
+"FOR EDUCATIONAL PURPOSES ONLY" "USING M106:Automatiser les tâches d’administration"                     
+
 This guide will help you set up and run the fancy script on your system. Please follow the steps below:
 
 ## Prerequisites
 1. Install the latest version of Python from the official Python website: [python.org/downloads](https://www.python.org/downloads/).
-2. Ensure that you have a command prompt or terminal application installed on your system.
+2. Ensure that you have a command prompt or terminal application installed on your system. (CMD OR TERMINAL)
 
 ## Installation
 1. Clone or download the fancy script repository to your local machine.
@@ -29,3 +30,32 @@ This guide will help you set up and run the fancy script on your system. Please 
         ```
 
 Congratulations! You have successfully set up and run the fancy script. Enjoy the fancy results!
+
+يساعدك هذا الدليل في إعداد وتشغيل البرنامج الفاخر على نظامك. يُرجى اتباع الخطوات التالية:
+
+## المتطلبات الأولية
+1. قم بتثبيت أحدث إصدار من Python من الموقع الرسمي لـ Python: [python.org/downloads](https://www.python.org/downloads/).
+2. تأكد من توفر برنامج سطر الأوامر أو الطرفية على نظامك. (CMD أو TERMINAL)
+
+## التثبيت
+1. استنسخ أو حمّل مستودع البرنامج الفاخر إلى جهازك المحلي.
+2. قم بفتح سطر الأوامر أو الطرفية وانتقل إلى الدليل الذي قمت بتنزيل المستودع إليه أو استنساخه.
+
+## دليل خطوة بخطوة
+1. افتح سطر الأوامر أو الطرفية في الدليل الذي يتواجد فيه البرنامج.
+2. قم بتثبيت التبعيات المطلوبة عن طريق تشغيل الأمر التالي:
+    ```shell
+    pip install -r requirements.txt
+    ```
+3. قم بتغيير تخطيط لوحة المفاتيح إلى QWERTY. قد تختلف تعليمات تغيير تخطيط لوحة المفاتيح اعتمادًا على نظام التشغيل الخاص بك. يُرجى الاطلاع على الوثائق المتعلقة بنظام التشغيل الخاص بك.
+4. في سطر الأوامر أو الطرفية، اكتب وقم بتشغيل أحد الأوامر التالية:
+    - لنظام Windows:
+        ```shell
+        py main.py
+        ```
+    - لنظم أخرى:
+        ```shell
+        python main.py
+        ```
+
+مبروك! لقد قمت بنجاح بإعداد وتشغيل البرنامج الفاخر. استمتع بالنتائج الرائعة!
