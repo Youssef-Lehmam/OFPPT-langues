@@ -9,8 +9,9 @@ This guide will help you set up and run the fancy script on your system. Please 
 2. Ensure that you have a command prompt or terminal application installed on your system. (CMD OR TERMINAL)
 
 ## Installation
-1. Clone or download the fancy script repository to your local machine.
-2. Open a command prompt or terminal and navigate to the directory where you downloaded or cloned the repository.
+1. Download the BOT [here](https://github.com/Youssef-Lehmam/OFPPTLANGUES-BOT/releases/download/v1.0/BOT.zip).
+2. Extract the zip file.
+3. Open a command prompt or terminal and navigate to the directory where you downloaded the repository.
 
 ## Step-by-Step Guide
 1. Open a command prompt or terminal in the directory where the script is located.
@@ -38,8 +39,9 @@ Congratulations! You have successfully set up and run the fancy script. Enjoy th
 2. تأكد من توفر برنامج سطر الأوامر أو الطرفية على نظامك. (CMD أو TERMINAL)
 
 ## التثبيت
-1. استنسخ أو حمّل البرنامج  إلى جهازك.
-2. قم بفتح سطر الأوامر وانتقل إلى الملف الذي قمت بتنزيل البرنامج.
+1.  حمّل البرنامج من [هنا](https://github.com/Youssef-Lehmam/OFPPTLANGUES-BOT/releases/download/v1.0/BOT.zip).
+2.  استخراج ملف ZIP.
+3. قم بفتح سطر الأوامر وانتقل إلى الملف الذي قمت بتنزيل البرنامج.
 
 ## دليل خطوة بخطوة
 1. افتح سطر الأوامر أو الطرفية في الملفا الذي يتواجد فيه البرنامج.
