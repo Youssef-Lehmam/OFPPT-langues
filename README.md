@@ -5,8 +5,10 @@
 This guide will help you set up and run the fancy script on your system. Please follow the steps below:
 
 ## Prerequisites
-1. Install the latest version of Python from the official Python website: [python.org/downloads](https://www.python.org/downloads/).
-2. Ensure that you have a command prompt or terminal application installed on your system. (CMD OR TERMINAL)
+1.You should install [firefox](https://www.mozilla.org/en-US/firefox/new/).
+2. Login to your altissia account https://www.altissia.org/fr/ofppt-langues.
+3. Install the latest version of Python from the official Python website: [python.org/downloads](https://www.python.org/downloads/).
+4. Ensure that you have a command prompt or terminal application installed on your system. (CMD OR TERMINAL)
 
 ## Installation
 1. Download the BOT [here](https://github.com/Youssef-Lehmam/OFPPTLANGUES-BOT/releases/download/v1.0/BOT.zip).
