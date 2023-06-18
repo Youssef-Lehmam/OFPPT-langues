@@ -1,5 +1,6 @@
-# Fancy Script Setup and Run Guide
+# Bot to reach the hours required on the OFPPT Langue platform (ENGLISH)
 
+"FOR EDUCATIONAL PURPOSES ONLY USING M106:Automatiser les tâches d’administration XD"                                                  
 This guide will help you set up and run the fancy script on your system. Please follow the steps below:
 
 ## Prerequisites
