@@ -1,4 +1,4 @@
-# Bot to reach the hours required on the OFPPT Langue platform (SUPPORT JUST ENGLISH FOR NOW)
+# Bot to reach the hours required on the OFPPT Langue/ ALTISSIA platform (SUPPORT JUST ENGLISH FOR NOW)
 
 "FOR EDUCATIONAL PURPOSES ONLY" "USING M106:Automatiser les tâches d’administration"                     
 
