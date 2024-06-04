@@ -1,5 +1,3 @@
-Here's an updated guide with the installation commands organized by steps:
-
 "FOR EDUCATIONAL PURPOSES ONLY"
 
 This guide will help you set up and run the fancy script on your system. Please follow the steps below:
